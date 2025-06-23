@@ -6,4 +6,4 @@ Dos tablas dynamo t_alumnos tenant_id id_alumnos
 
 
 
-Api-Usuarios: !["lolsinfoto"](img/logo.png)
+Api-Usuarios: !["lolsinfoto"](Captura de pantalla 2025-06-22 220503.png)
